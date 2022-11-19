@@ -1,0 +1,11 @@
+.hide {
+  display: none;
+}
+
+.greyed {
+  background-color: grey;
+}
+
+.standard {
+  background-color: white;
+}
